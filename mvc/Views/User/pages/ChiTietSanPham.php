@@ -396,3 +396,4 @@
             </div>
         </section>
     </div>
+    <script type="text/javascript" src="./Public/js/detailproduct.js"></script>
